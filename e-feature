@@ -1,0 +1,85 @@
+[33mcommit 43e66c65bb72db7307487fad7d8be486d4356b32[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mrebase-feature[m[33m)[m
+Author: John Doe <johndoe@example.com>
+Date:   Wed Jun 3 02:14:31 2026 +0300
+
+    Change branch.md
+
+[33mcommit 5255d2f55754d1f74dd103d70ecf832be28ef9e1[m
+Author: John Doe <johndoe@example.com>
+Date:   Wed Jun 3 02:13:14 2026 +0300
+
+    Add rebase.md
+
+[33mcommit de256437a159753228ffb708c90779a29ff148e7[m[33m ([m[1;32mmaster[m[33m)[m
+Author: John Doe <johndoe@example.com>
+Date:   Wed Jun 3 02:16:28 2026 +0300
+
+    Add reflog stub to branch.md
+
+[33mcommit f8e92b4dfb611ead8a6d953270a6d946631ed753[m[33m ([m[1;32mmerge-feature[m[33m)[m
+Author: John Doe <johndoe@example.com>
+Date:   Wed Jun 3 02:10:07 2026 +0300
+
+    Add merge.md
+
+[33mcommit 284fd1a75515fc246de94b415f2ba937bf3765d8[m
+Merge: e0e4883 b253a41
+Author: John Doe <johndoe@example.com>
+Date:   Wed Jun 3 02:03:57 2026 +0300
+
+    Merge branch 'branch-feature'
+
+[33mcommit e0e48837d717031ec6cf7d3cb27b8c328173567a[m
+Merge: bce538d 4b7feaa
+Author: John Doe <johndoe@example.com>
+Date:   Wed Jun 3 01:52:12 2026 +0300
+
+    Merge bullet-feature into master
+
+[33mcommit bce538dd03fbbd7890a5c7c52678a105da3d2b3c[m
+Author: John Doe <johndoe@example.com>
+Date:   Wed Jun 3 01:39:43 2026 +0300
+
+    New commands for commit.md
+
+[33mcommit 4b7feaa9f863f96f61ea3e7af4ae59425a421327[m[33m ([m[1;32mbullet-feature[m[33m)[m
+Author: John Doe <johndoe@example.com>
+Date:   Wed Jun 3 01:31:59 2026 +0300
+
+    Replace with bullets
+
+[33mcommit b253a415d033f8c0b0db304c4376add5a1768ba7[m[33m ([m[1;32mbranch-feature[m[33m)[m
+Author: John Doe <johndoe@example.com>
+Date:   Wed Jun 3 01:19:47 2026 +0300
+
+    Add branch.md
+
+[33mcommit 803644635ae4ba107b80229195a5f9cb2760b6c2[m[33m ([m[1;33mtag: [m[1;33mv0.1[m[33m)[m
+Author: John Doe <johndoe@example.com>
+Date:   Wed Jun 3 01:10:05 2026 +0300
+
+    Change commit.md
+
+[33mcommit 0638ec13613213ba5fd24f2e369cf033dd886614[m
+Author: John Doe <johndoe@example.com>
+Date:   Wed Jun 3 01:06:56 2026 +0300
+
+    Add commit.md header
+
+[33mcommit 5bb62d9413a9840b0157836162056adf94ad1fec[m
+Author: John Doe <johndoe@example.com>
+Date:   Wed Jun 3 00:55:04 2026 +0300
+
+    Add init.md
+
+[33mcommit 24be26ae05cad1c6f21ae97b3e38ce57f12fe289[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: John Doe <johndoe@example.com>
+Date:   Wed Nov 4 00:50:55 2020 +0500
+
+    Autoconfig
+
+[33mcommit f763f5fba354e6bae62f9456a3d8585adea51f15[m
+Author: John Doe <johndoe@example.com>
+Date:   Wed Nov 4 00:47:29 2020 +0500
+
+    Initial commit
